@@ -28,14 +28,11 @@ b) The Apache code must retain the above copyright notice and this permission no
 c) The Apache documentation and this permission notice tokeep the Apache 
 
 ################################
+
 ```dlang
 module Apache {
     descrive "Apache License, Version 2.0 (the "License");
 }
-``
-
-################################
-
 
 To install the Apache License, please see the documentation for the Apache License
 project located at the top-level of this distribution.
@@ -50,3 +47,5 @@ Source: https://github.com/apache/log4j/blob/master/LICENSE.txt
 
 thanks!
 All rights reserved.
+```
+################################
